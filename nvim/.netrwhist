@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =7
+let g:netrw_dirhist_7='/home/anton/dev'
+let g:netrw_dirhist_6='/home/anton/dev/hs'
+let g:netrw_dirhist_5='/home/anton/dev/hs/hindley-milner-type-check'
+let g:netrw_dirhist_4='/home/anton/dev/hs/hindley-milner-type-check/src'
+let g:netrw_dirhist_3='/home/anton/dev/hs/hindley-milner-type-check/src/Type'
+let g:netrw_dirhist_2='/home/anton/dev/hs/hindley-milner-type-check/src/Type/Check'
+let g:netrw_dirhist_1='/home/anton/dev/hs/hindley-milner-type-check/src/Type/Check/HM'
